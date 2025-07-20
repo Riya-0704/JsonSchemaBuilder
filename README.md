@@ -8,7 +8,7 @@ A modern, interactive JSON schema builder built with React and ShadCN UI. Create
 ![Vite](https://img.shields.io/badge/Vite-5.4.2-purple)
 
 ## 🚀 Live Demo
-
+https://jsonschema-build.netlify.app/
 
 
 ## ✨ Features
